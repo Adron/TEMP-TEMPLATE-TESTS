@@ -5,13 +5,13 @@ export default {
 </script>
 <template>
 	<ul class="breadcrumb">
-		<li class="breadcrumb-item"><a href="#">BREADCRUMB</a></li>
-		<li class="breadcrumb-item active">HOME PAGE</li>
+		<li class="breadcrumb-item"><a href="#">Railroads</a></li>
+		<li class="breadcrumb-item active">Operators</li>
 	</ul>
 	<h1 class="page-header">
-		Starter Page <small>page header description goes here...</small>
+		Header description has been altered.
 	</h1>
 	<p>
-		Start build your page here
+		Building the page here.
 	</p>
 </template>

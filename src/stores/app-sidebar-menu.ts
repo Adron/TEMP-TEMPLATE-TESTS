@@ -10,6 +10,10 @@ export const useAppSidebarMenuStore = defineStore({
       'url': '/',
       'icon': 'bi bi-house-door',
       'text': 'Home'
+    },{
+      'url': '/thisnext',
+      'icon': 'bi bi-house-door',
+      'text': 'Next'
     }]
   }
 });
