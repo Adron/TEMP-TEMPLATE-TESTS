@@ -1,7 +1,7 @@
 <script>
 export default {
-	
-}
+  name: "Home"
+};
 </script>
 <template>
 	<ul class="breadcrumb">

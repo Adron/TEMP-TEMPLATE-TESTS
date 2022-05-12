@@ -11,9 +11,17 @@ export const useAppSidebarMenuStore = defineStore({
       'icon': 'bi bi-house-door',
       'text': 'Home'
     },{
-      'url': '/thisnext',
-      'icon': 'bi bi-house-door',
-      'text': 'Next'
+      'url': '/connections',
+      'icon': 'bi bi-gear-wide-connected',
+      'text': 'Data Connections'
+    },{
+      'url': '/generator',
+      'icon': 'bi bi-clipboard-data-fill',
+      'text': 'Generator Models'
+    },{
+      'url': '/schedules',
+      'icon': 'bi bi-calendar3',
+      'text': 'Generator Scheduling'
     }]
   }
 });
