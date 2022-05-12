@@ -7,7 +7,7 @@
     Data Source Connections
   </h1>
   <p>
-    These are the data sources you have connected to work with.
+    Setup your data sources here, to select which, how, and what data to generate for those systems.
   </p>
 </template>
 

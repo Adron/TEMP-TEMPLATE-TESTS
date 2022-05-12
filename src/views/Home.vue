@@ -9,9 +9,9 @@ export default {
 		<li class="breadcrumb-item active">Operators</li>
 	</ul>
 	<h1 class="page-header">
-		Header description has been altered.
+		Data Central
 	</h1>
 	<p>
-		Building the page here.
+    Welcome to the data connections, generation, and scheduling system.
 	</p>
 </template>
